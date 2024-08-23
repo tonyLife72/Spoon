@@ -1,0 +1,65 @@
+.grettings {
+    background-image: url(../../img/grettings/gretings-fon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px 0 120px 0;
+
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.grettings__content {}
+
+.grettings__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {}
+
+.nav {}
+
+.nav__list {
+    display: flex;
+    column-gap: 40px;
+    color: white;
+    align-items: center;
+}
+
+.nav__item {
+    font-family: var(--fontTitle);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #fff;
+}
+
+.nav__item_square {
+    width: 4px;
+    height: 4px;
+    background-color: #ffffff;
+}
+
+.nav__item_border {
+    padding: 11px 17px;
+    border: 2px solid #fff;
+    border-radius: 4px;
+}
+
+.hero {
+    color: #fff;
+}
+
+.hero__title {}
+
+.hero__text {}
+
+.hero__decor {}
+
+.btn {}
+
+.btn__started {}
